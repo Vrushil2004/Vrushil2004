@@ -1,4 +1,4 @@
-# 👨‍💻 Vrushil Shah
+# 👨‍💻 ᴠʀᴜꜱʜɪʟ ꜱʜᴀʜ
 
 ---
 
@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 
-Hi, I'm Vrushil Shah, currently pursuing my MSc in Data Science with a good academic track record. I thrive on building data-driven solutions that deliver real-world impact.
+Hi, I'm ᴠʀᴜꜱʜɪʟ ꜱʜᴀʜ, currently pursuing my MSc in Data Science with a good academic track record. I thrive on building data-driven solutions that deliver real-world impact.
 
 * 📚 Current Focus: Mastering Deep Learning architectures, including CNNs, RNNs, and Transformers, to tackle challenging AI problems.  
 * 🎯 Next Goals: Diving deeper into Big Data technologies and advancing skills in NLP, AI/ML, and Deep Learning to build intelligent, scalable systems.  
