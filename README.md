@@ -2,11 +2,11 @@
 
 ---
 
-## 🚀 **Turning Complex Data into Impactful Solutions**
+## 🚀 Turning Complex Data into Impactful Solutions
 
 ---
 
-## 👨‍💻 **About Me**
+# 👨‍💻 About Me
 
 Hi, I'm Vrushil Shah, currently pursuing my MSc in Data Science with a good academic track record. I thrive on building data-driven solutions that deliver real-world impact.
 
@@ -18,14 +18,14 @@ Hi, I'm Vrushil Shah, currently pursuing my MSc in Data Science with a good acad
 
 ---
 
-## 💼 **Open to Opportunities**
+# 💼 Open to Opportunities
 
 * 💼 Actively seeking paid internships, research positions, or full-time roles in Data Science, Machine Learning, or AI.  
 * 🤝 Open to collaborating on ML, NLP, Deep Learning, and impactful open-source projects.
 
 ---
 
-## 📫 **Connect With Me**
+# 📫 Connect With Me
 
 * 📧 Email: [vrushilashah2504@gmail.com](mailto:vrushilashah2504@gmail.com)  
-* 🔗 LinkedIn: [https://www.linkedin.com/in/vrushil-shah-9b735427b](https://www.linkedin.com/in/vrushil-shah-9b735427b)  
+* 🔗 LinkedIn: [https://www.linkedin.com/in/vrushil-shah-9b735427b](https://www.linkedin.com/in/vrushil-shah-9b735427b)
