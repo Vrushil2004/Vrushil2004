@@ -1,31 +1,18 @@
-# 👨‍💻 ᴠʀᴜꜱʜɪʟ ꜱʜᴀʜ
+AI/ML Engineer | MSc Data Science | Ex-Persistent Systems
 
----
+Building production-grade AI systems — multi-agent RAG pipelines, 
+drift-aware MLOps, and semantic NLP applications deployed on AWS.
 
-## 🚀 Turning Complex Data into Impactful Solutions
+🔧 What I've shipped:
+→ Autonomous Multi-Agent RAG System (LangChain • LangGraph • FAISS • AWS)
+→ AdaptML — Drift-aware fraud detection (ROC-AUC: 0.92 | Precision: 0.89)
+→ AI Resume Intelligence — Semantic job matching + LLM career assistant
 
----
+💡 Stack:
+Python • LangChain • LangGraph • RAG • FAISS • FastAPI • Docker • AWS • MLflow • PyTorch • NLP
 
-# 👨‍💻 About Me
+📍 Ahmedabad, India | Open to AI/ML Engineer & GenAI Developer roles
 
-Hi, I'm ᴠʀᴜꜱʜɪʟ ꜱʜᴀʜ, currently pursuing my MSc in Data Science with a good academic track record. I thrive on building data-driven solutions that deliver real-world impact.
-
-* 📚 Current Focus: Mastering Deep Learning architectures, including CNNs, RNNs, and Transformers, to tackle challenging AI problems.  
-* 🎯 Next Goals: Diving deeper into Big Data technologies and advancing skills in NLP, AI/ML, and Deep Learning to build intelligent, scalable systems.  
-* 💡 Deeply passionate about Machine Learning, Natural Language Processing, and cutting-edge research in AI & Data Science.  
-* 🛠️ Strong foundation in SQL, Python, Basic concepts of Machine Learning and Deep Learning, Power BI, data analysis tools.  
-* 🌱 Always enthusiastic to learn, build, and collaborate on impactful projects and committed to continuous learning and innovation.
-
----
-
-# 💼 Open to Opportunities
-
-* 💼 Actively seeking paid internships, research positions, or full-time roles in Data Science, Machine Learning, or AI.  
-* 🤝 Open to collaborating on ML, NLP, Deep Learning, and impactful open-source projects.
-
----
-
-# 📫 Connect With Me
-
-* 📧 Email: [vrushilashah2504@gmail.com](mailto:vrushilashah2504@gmail.com)  
-* 🔗 LinkedIn: [https://www.linkedin.com/in/vrushil-shah-9b735427b](https://www.linkedin.com/in/vrushil-shah-9b735427b)
+📧 vrushilashah2504@gmail.com
+🔗 LinkedIn: linkedin.com/in/vrushil-shah-9b735427b
+🌐 Portfolio: http://claude.ai/public/artifacts/44f0a017-7dd6-4d56-adc0-cfef754a192d
